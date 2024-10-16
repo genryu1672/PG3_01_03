@@ -86,7 +86,7 @@ void diceGame() {
 			printf("³‰ğ\n");
 		}
 
-		printf("Œ‹‰Ê@”¼\n");
+		printf("Œ‹‰Ê@’†ŠÔ\n");
 	}
 
 
