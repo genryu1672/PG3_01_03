@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<windows.h>
+#include<Windows.h>
 #include <Time.h>
 
 typedef void (*PFunc)(int*);
